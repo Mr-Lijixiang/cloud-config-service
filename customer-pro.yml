@@ -10,4 +10,4 @@ spring:
   application:
     name: customer
 env:
-  pro
+  pro6
